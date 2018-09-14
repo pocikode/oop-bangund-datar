@@ -1,0 +1,18 @@
+{
+    "name": "pocikode/oop-question",
+    "description": "Tugas Penerapan OOP",
+    "authors": [
+        {
+            "name": "Agus Supriyatna",
+            "email": "aguzsupriyatna7@gmail.com"
+        }
+    ],
+    "require": {
+        "corneltek/classmap": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dummy\\" : "src"
+        }
+    }
+}
